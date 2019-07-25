@@ -25,6 +25,7 @@ Here's the mock for what we'd like to see ideally:
 _Ideally, this should take around a day to finish, but let us know how much time you spent so we can calibrate our expectations!_
 
 ## Hints / Tips
+- All of the data manipulations will be made on the locally (without DB) - except of the initial fetch.
 - Ideally, you'll use something like `redux` to store all the companies & employees, but the exact implementation is up to you!
 - You can use react router instead of modal approach if you want.
 - It doesn't have to look pixel perfect with amazing animations, but we do care a lot about UX and usability.
