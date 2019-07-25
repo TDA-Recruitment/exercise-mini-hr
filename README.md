@@ -6,9 +6,9 @@ We'd like to build a mini-version of TripleTech - (mostly on the Company / Emplo
 
 Here's the mock for what we'd like to see ideally:
 
-![mock_1](https://github.com/tda-soft/react-hr-exercise/master/mock_1.png)
+![mock_1](https://raw.githubusercontent.com/tda-soft/react-hr-exercise/master/mock_1.png)
 
-![mock_2](https://github.com/tda-soft/react-hr-exercise/master/mock_2.png)
+![mock_2](https://raw.githubusercontent.com/tda-soft/react-hr-exercise/master/mock_2.png)
 
 ## Objective
 1. Implement an API to fetch list of companies & employees from [here](http://www.filltext.com/?rows=5&id={index}&name={lastName}~{businessType}&number={numberRange|505002010,519000000}&phone={phone}&fax={phone}&@employees={rows=!*id={numberRange|500,1500}*number={numberRange|304001050,315000000}*first_name={firstName}*last_name={lastName}*email={email}*birth_date={date|01-01-1950,01-12-2000}}).
